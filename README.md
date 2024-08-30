@@ -41,8 +41,8 @@ I'm [Satyabrat Ojha](https://www.linkedin.com/in/satyabratojha/), 2x ICPC Region
 
 <p align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=verma-anushka&count_private=true&show_icons=true&theme=dracula&line_height=33">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=verma-anushka&count_private=true&hide=html,scss,,ejs&theme=dracula&line_height=10">
+  <img src="https://github-readme-stats.vercel.app/api?username=Satyabrat-Ojha&count_private=true&show_icons=true&theme=dracula&line_height=33">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satyabrat-Ojha&count_private=true&hide=html,scss,,ejs&theme=dracula&line_height=10">
 
 </p>
 
@@ -68,7 +68,7 @@ I'm [Satyabrat Ojha](https://www.linkedin.com/in/satyabratojha/), 2x ICPC Region
 
 <div align="right">
   
-![ViewCount](https://views.whatilearened.today/views/github/verma-anushka/verma-anushka.svg) [![Thanks!](https://img.shields.io/badge/Thanks%20for%20visiting-!-1EAEDB.svg)](https://verma-anushka.github.io/anushkaverma/)
+![ViewCount](https://views.whatilearened.today/views/github/Satyabrat-Ojha/Satyabrat-Ojha.svg) [![Thanks!](https://img.shields.io/badge/Thanks%20for%20visiting-!-1EAEDB.svg)](https://verma-anushka.github.io/anushkaverma/)
 
 </div>
 
