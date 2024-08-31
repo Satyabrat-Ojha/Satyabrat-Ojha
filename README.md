@@ -2,7 +2,7 @@
 
 I'm Bill Chan 😉, technology consultant 👨🏻‍💻 from Hong Kong. I'm an open-source profession and mostly develop in Python 🐍.
 
-<img src="type.svg" height="40"/>
+<img src="https://readme-typing-svg.herokuapp.com?vCenter=true&width=500&lines=Technology+Consultant+and+FinTech+Engineer;Python+Developer+with+3%2B+Years+Experience;Passionate+about+Algorithmic+Trading" height="40"/>
 
 <div>
 <a href="mailto: billpwchan@hotmail.com">
