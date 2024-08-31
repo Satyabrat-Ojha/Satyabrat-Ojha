@@ -1,8 +1,58 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> <span> Hey, Nice to see you. </span> </h1>
 
-I'm Bill Chan 😉, technology consultant 👨🏻‍💻 from Hong Kong. I'm an open-source profession and mostly develop in Python 🐍.
+I'm Satyabrat Ojha 😉, software developer 👨🏻‍💻 from IIIT Gwalior, India. I'm a full stack web developer and a heavy competetive programmer being 2x ICPC Regionalist.
 
-<img src="https://readme-typing-svg.herokuapp.com?vCenter=true&width=500&lines=Technology+Consultant+and+FinTech+Engineer;Python+Developer+with+3%2B+Years+Experience;Passionate+about+Algorithmic+Trading" height="40"/>
+<div align="center">
+<svg xmlns='http://www.w3.org/2000/svg'
+    xmlns:xlink='http://www.w3.org/1999/xlink'
+    viewBox='0 0 500 50'
+    style='background-color: #00000000;'
+    width='500px' height='50px'>
+
+    <path id='path0'>
+        <animate id='d0' attributeName='d' begin='0s;d2.end'
+            dur='5000ms' fill='remove'
+            values='m0,25 h0 ; m0,25 h500 ; m0,25 h500 ; m0,25 h0' keyTimes='0;0.8;0.8;1' />
+    </path>
+    <text font-family='"monospace", monospace' fill='#36BCF7' font-size='20'
+        dominant-baseline='middle'
+        x='0%' text-anchor='start'
+        letter-spacing='normal'>
+        <textPath xlink:href='#path0'>
+            Technology Consultant and FinTech Engineer
+        </textPath>
+    </text>
+
+    <path id='path1'>
+        <animate id='d1' attributeName='d' begin='d0.end'
+            dur='5000ms' fill='remove'
+            values='m0,25 h0 ; m0,25 h500 ; m0,25 h500 ; m0,25 h0' keyTimes='0;0.8;0.8;1' />
+    </path>
+    <text font-family='"monospace", monospace' fill='#36BCF7' font-size='20'
+        dominant-baseline='middle'
+        x='0%' text-anchor='start'
+        letter-spacing='normal'>
+        <textPath xlink:href='#path1'>
+            Python Developer with 3+ Years Experience
+        </textPath>
+    </text>
+
+    <path id='path2'>
+        <animate id='d2' attributeName='d' begin='d1.end'
+            dur='5000ms' fill='remove'
+            values='m0,25 h0 ; m0,25 h500 ; m0,25 h500 ; m0,25 h0' keyTimes='0;0.8;0.8;1' />
+    </path>
+    <text font-family='"monospace", monospace' fill='#36BCF7' font-size='20'
+        dominant-baseline='middle'
+        x='0%' text-anchor='start'
+        letter-spacing='normal'>
+        <textPath xlink:href='#path2'>
+            Passionate about Algorithmic Trading
+        </textPath>
+    </text>
+</svg>
+</div>
+
 
 <div>
 <a href="mailto: billpwchan@hotmail.com">
